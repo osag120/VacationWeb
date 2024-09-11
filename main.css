@@ -1,0 +1,719 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0; 
+}
+.select{
+    list-style-type: none;
+  list-style: none;
+ border: 1px solid gainsboro;
+ padding: 12px;
+}
+.selet{
+    list-style-type: none;
+  list-style: none;
+  border: 1px solid gainsboro;
+ padding: 10px;
+ color: gray;
+}
+.selct{
+    list-style-type: none;
+  list-style: none;
+  border: 1px solid gainsboro;
+ padding: 8px;
+ color: gray;
+}
+.single-explore-txt{
+    background-color: white;
+    padding-left: 15px;
+    
+}
+.ssss{
+    margin-right: 50px;
+    border-radius: 3px;
+}
+select{
+   border: none;
+}
+.ee-rating{
+    background-color: #ff0000;
+    color: ghostwhite;
+    border-radius: 3px;
+}
+.e-rating{
+    background-color: blue;
+    color: ghostwhite;
+    border-radius: 5px;
+}
+.bde{
+    background-color: black;
+    color: white;
+    padding: 5px; 
+}
+.bde:hover, .cs:hover{
+    color: blue;
+}
+.ssss:hover{
+    box-shadow: 10px 10px 10px 15px gray;
+}
+.ro{
+    display: flex;  
+}
+
+.rowww{
+    display: flex;
+    border-top: 0.5px solid gainsboro;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-right: 15px;
+}
+.xp-rating{
+    background-color: blueviolet;
+    color: ghostwhite;
+    border-radius: 3px;
+}
+
+.plo-rating{
+    background-color: rgb(250, 191, 81);
+    color: #ffff;
+    border-radius: 3px;
+}
+.exple-rating{
+    background-color: yellowgreen;
+    color: #ffff;
+    border-radius: 3px;
+}
+.explore-map-icon{
+    margin-left: 220px;
+}
+.exp-rating{
+    background-color: rgb(255, 178, 11);
+    color: #ffff;
+    border-radius: 3px;
+}
+.singo{
+    display: flex;
+    background-color: white;
+}
+.single-explore-img{
+    background-color: #ffff;
+}
+.testimonial-carousel{
+    margin-top: 50px;
+    display: flex;
+}
+.po90{
+    color: #ffff;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.rowwww{
+    display: flex;
+    margin-left: 50px;
+}
+.mer{
+    display: flex;
+    color: #ffff;
+    font-size: 70px;
+    margin-left: 20px;
+}
+.pio{
+    text-transform: uppercase;
+    
+}
+.col-mad-4{
+    background-color: #ffff;
+    box-shadow: 2px 2px 2px 2px gray;
+    margin-right: 70px;
+}
+.p09{
+    margin-left: 10px;
+}
+.hytr{
+    text-transform: capitalize;
+    color: gray;
+}
+.sedr{
+    color: black;
+    font-size: smaller;
+}
+.single-blog-item-txt{
+    padding: 20px;
+}
+.piuyt{
+    color: black;
+    text-transform: uppercase;
+}
+.col-mad-4:hover{
+    box-shadow: 13px 13px 13px 13px gray;
+}
+.col-mad-4:hover .sedr{
+    color: #ff0000;
+}
+
+.mny{
+  color: #859098;
+  text-transform: capitalize;  
+  font-size: larger;
+}
+.sectio-header{
+    text-align: center;
+}
+.statistics{
+    background-image: url('counter-banner.jpg');
+    padding: 170px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .overla{
+    width: cover;
+    position: relative;
+    background-color: rgba(70, 70, 70, 0.7);
+    z-index: 0;
+} */
+.statistics-counter{
+    display: flex;
+    justify-content: space-around;
+}
+.testimonial-description{
+    position: relative;
+    height: 200px;
+    width: 400px;
+    padding: 2px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px black;
+    background-color: #fff;
+    text-align: center;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+.testimonial-description:hover{
+    box-shadow: 6px 8px 10px gray;
+}
+.testimonial-info{
+    display: flex;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+ .vf{ 
+    display: flex;
+}
+.vcd{
+    color: gainsboro;
+    cursor: pointer;
+}
+.vcd:hover{
+    color: green;
+    cursor: pointer;
+}
+.vdc{
+    color: gainsboro;
+    cursor: pointer;  
+}
+.vdc:hover{
+   color: #ff0000;
+   cursor: pointer;
+}
+#man{
+  color: gray;
+  border-radius: 5px;
+}
+.close-btn{
+    border: none;
+    color: red;
+    background-color: #ffff;
+    cursor: pointer;
+}
+.open-btn{
+    border: none;
+    color: green;
+    background-color: #ffff; 
+    cursor: pointer; 
+}
+#chi{
+    border: none;
+    color: gray;
+    border-radius: 5px;
+}
+
+.cs{
+    margin-right: 5px;
+    margin-left: 250px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.sec{
+    list-style: none;
+    list-style-type: none;
+   margin-left:  950px;
+   border: 1px solid gainsboro;
+   padding-top: 10px;
+   color: gray;
+}
+.esc{
+    text-decoration: none;
+    text-decoration-line: none;
+    border: 1px solid gainsboro;
+    padding-top: 8px;
+    color: rgb(167, 161, 167);
+}
+.ecs{
+    text-decoration-line: none;
+    text-decoration: none;
+    padding-top: 8px;
+    border: 1px solid gainsboro;
+}
+.bag ul{
+    display: flex;
+}
+.bag{
+    border-bottom: 1px solid gainsboro;
+}
+.fa-magnifying-glass{
+    color: gray;
+}
+
+#abg{
+    list-style-type: none;
+   display: flex;
+   
+}
+.sung{
+    text-decoration-line: none;
+    text-decoration: none;
+    color: gray;
+}
+.maun{
+    color: red;
+}
+.ban{
+    text-decoration-line: none;
+    text-decoration: none;
+    padding-left: 80px;
+    color: black;
+}
+
+
+nav ul li a {
+    color: #859098;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform:uppercase;
+    text-decoration: none;
+    -webkit-transition: 0.3s linear; 
+    -moz-transition: 0.3s linear; 
+    -ms-transition: 0.3s linear; 
+    -o-transition: 0.3s linear; 
+    transition: 0.3s linear;
+}
+ nav{
+ background-color: ghostwhite;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;  
+}
+nav ul {
+    display: flex;
+    list-style-type: none;
+    
+}
+ nav ul li {
+    margin-right: 10px;
+    text-decoration-line: none;
+    text-decoration: none;
+ }
+nav ul li a:hover{
+     color: red;
+}
+.bas{
+    background-image: url('./banner.jpg');
+    height: 95vh;
+    background-size: cover;
+    background-position: center; 
+}
+.overlay{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(70, 70, 70, 0.7);
+    z-index: 0;
+}
+.dat{
+    padding-top: 170px;
+    color: ghostwhite;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: center;
+    
+}
+.da{
+    color: ghostwhite;
+    text-align: center;
+    font-size: 21px;
+}
+
+.poat{
+    margin-left: 250px;
+    margin-right: 50px;
+    background-color: white;
+    padding: 22px;
+    border-radius: 5px;
+    font-size: 25px;
+}
+.mko{
+    border: none;
+    background-color: #ff0000;
+    color: #ffff;
+    cursor: pointer;
+    padding: 3px;
+    border-radius: 3px;
+}
+input[type=text]{
+    border: none;
+    outline: none;
+    width: 250px;
+}
+.list{
+    border: none;
+    background-color: white;
+    font-size: 30px;
+    
+}
+.poi{
+     padding-left: 10px; 
+}
+.grs{
+    display: flex;
+    margin-top: 100px;
+    
+}
+.pol{
+    background-color: rgb(236, 97, 97);
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    
+}
+.pol:hover{
+    background-color: red;
+}
+.par{
+    color: white;
+    
+}
+.boy{
+    font-size: large;
+}
+.tr{
+    display: flex;
+    list-style: none;
+    position: absolute;
+    top: 108%;
+    left: 8%;
+}
+.titi{
+
+    margin-left: 80px;
+    background-color: white;
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    box-shadow: 2px 6px 10px gray;
+    padding-top: 50px;
+    text-align: center;
+
+}
+.titi:hover{
+    background-color: #ff0000;
+    color: #ffff;
+}
+.titi:hover a{
+    color: #ffff;
+}
+.btn{
+    text-transform: capitalize;
+    color: gray;
+    border: 0.2px solid gray;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 70px;
+    padding: 5px;
+    border-radius: 3px;
+}
+.tion{
+    text-align: center;
+    color: rgb(97, 94, 94);
+}
+.poii{
+    text-transform: uppercase;
+    color: rgb(75, 70, 70);
+}
+.roww{
+    display: flex;
+}
+.fas{
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 15px;
+   /* font-size: medium;  */
+    color: black;
+    text-transform: capitalize;   
+}
+.fast{
+    color: gray;
+}
+
+.subscription{
+    background-color: rgb(248, 247, 247);
+    padding: 120px;
+}
+.subscribe-title{
+    text-align: center;
+}
+input[type=email]{
+    border: none;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 150px;
+    padding-left: 8px;
+    border-radius: 5px;
+}
+.subscribe-btn{
+    border: none;
+    background-color: #f96565;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    padding-right: 15px;
+    padding-left: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.subscribe-btn:hover{
+    background-color: #ff0000;
+}
+.pth{
+    color: rgb(113, 112, 112);
+    font-size: x-large;
+}
+.com2:hover {
+    box-shadow: 0px 10px 13px 11px gray;
+}
+.com2{
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 1px 2px gray;
+    margin-left: 254px;
+    margin-right: 330px;
+    border-radius: 5px;
+}
+.nfoot{
+    display: flex;
+    padding: 30px;
+    padding-bottom: 38px;
+    justify-content: space-between;
+}
+.nfoot ul{
+   display: flex;
+   margin-left: 0px;
+}
+.nfoot ul li{
+    margin-right: 20px;
+    text-decoration-line: none;
+    text-decoration: none;
+}
+.nfoot ul li a{
+    color: #859098;
+}
+.nfoot ul li a:hover{
+    color: #ff0000;
+}
+.erfd{
+    text-transform: uppercase;
+}
+.p089{
+    border-bottom: 1px solid gainsboro;
+}
+.njmk a{
+    color: #859098;
+}
+.njmk{
+    color: #859098;
+    text-transform: capitalize;
+    padding-left: 70px;
+}
+.gty{
+    display: flex;
+}
+.footer-social{
+    margin-left: 450px;
+}
+.ks{
+    border-radius: 5px;
+    margin-right: 90px;
+    margin-left: 150px;
+    box-shadow: 2px 6px 10px gray;
+    padding: 40px;
+}
+.ks:hover, .gle:hover, .wwo:hover{
+    background-color: #ff0000;
+    color: white;
+}
+.ks:hover a, .gle:hover a, .wwo:hover a{
+    color: white;
+}
+.ks:hover .fast, .gle:hover .fast, .wwo:hover .fast{
+    color: white;
+}
+.ks:hover .btn, .gle:hover .btn, .wwo:hover .btn{
+    background-color: white;
+    color: red;
+}
+.wwo{
+    border-radius: 5px; 
+    box-shadow: 2px 6px 10px gray;
+    padding: 40px;
+}
+.gle{
+    border-radius: 5px;
+    margin-left: 90px;
+    box-shadow: 2px 6px 10px gray;
+    padding: 40px;
+}
+.return-to-top{
+    margin-left: 1290px;
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 300px;
+    cursor: context-menu;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+}
+.zx{
+    text-decoration: none;
+    color: white;
+    cursor: context-menu;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.wor{
+    margin-top: 40px;
+}
+.cv{
+    text-decoration: none;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    color: black;
+}
+.baswe{
+    color: black;
+    text-transform: capitalize;
+}
+.explore{
+    background-color: gainsboro;
+    padding-bottom:40px;
+}
+.mnd{
+    text-align: center;
+    text-transform: uppercase;
+}
+.maney{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.mane{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 27px;
+}
+.STAR{
+    color: yellow;
+}
+.sectionHeader{
+    text-align: center;
+}
+.polpo{
+    text-transform: capitalize;
+}
+.--{
+   text-transform: uppercase;
+}
+.grpp{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+.mhgr{
+    background-color: gainsboro;
+    color: #859098;
+}
+.mhgr:hover{
+    background-color: #ff0000;
+    color: #ffff;
+}
+.hse{
+    color: #859098;
+}
+.hse:hover{
+    color: #ff0000;
+}
+.scroll{
+    scroll-behavior: smooth;
+    background-color: #ff0000;
+    color: #ffff;
+}
+
+@media screen and (max-width: 430px){
+    .da, .dat{
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .poat{
+        padding-top: 0;
+        width: 190px;
+        margin-left: 10px;
+        margin-top: 5px;
+        height: 90px;
+    }
+    .pol{
+      padding-left: 7px;
+      padding-right: 0; 
+      width: 55px;
+      height: 40px;
+    }
+    input[type=text]{
+        font-size: x-small;
+        width: 179px;
+    }
+    label{
+      font-size: 15px;
+    }
+    .tr{
+        width: 50px;
+    }
+    .titi{
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+}
