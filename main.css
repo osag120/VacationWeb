@@ -409,6 +409,9 @@ input[type=text]{
     color: white;
     
 }
+.scroll{
+    scroll-behavior: smooth;
+}
 .boy{
     font-size: large;
 }
@@ -666,9 +669,11 @@ ul{
 
 .mhgr{
     background-color: gainsboro;
+    border-radius: 30px;
     color: #859098;
+    border: none;
 }
-.mhgr:hover{
+.mhgr:hover .vghy{
     background-color: #ff0000;
     color: #ffff;
 }
@@ -678,10 +683,19 @@ ul{
 .hse:hover{
     color: #ff0000;
 }
-.scroll{
+html{
     scroll-behavior: smooth;
+}
+.scroll{
+    padding: 20px;
     background-color: #ff0000;
     color: #ffff;
+    border-radius: 30px;
+    margin-left: 1270px;
+}
+.vghy{
+    color: #859098;
+    padding: 20px;
 }
 
 @media screen and (max-width: 430px){
@@ -694,7 +708,7 @@ ul{
         width: 190px;
         margin-left: 10px;
         margin-top: 5px;
-        height: 90px;
+        height: 130px;
     }
     .pol{
       padding-left: 7px;
@@ -715,5 +729,90 @@ ul{
     .titi{
         margin-left: 3px;
         margin-right: 3px;
+    }
+    .ks, .wwo, .gle{
+        padding: 2px;
+        font-style: oblique;
+        margin-left: 1px;
+        margin-right: 1px;
+    }
+    .fas{
+        margin: 0;
+        font-style: oblique;
+        font-size: 9.3px;
+    }
+    .counter{
+        font-size: 20px;
+    }
+    .po90{
+        font-size: 20px;
+    }
+    .statistics-counter{
+        text-align: left;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .bmg{
+        font-size: 20px;
+    }
+    .statistics{
+        padding: 10px;
+        padding-top: 100px;
+        width: 400px;
+        height: 190px;
+    }
+    .subscription{
+        padding: 0;
+        height: 300px;
+    }
+    .select, .selet{
+        padding: 0;
+    }
+    .sec, .esc, .ecs{
+        padding: 0;
+        margin-left: 0;
+    }
+    .sec{
+        margin-left: 58.5px;
+    }
+    .com2{
+        margin-left: 0;  
+        margin-right: 111px;
+    }
+    input[type=email]{
+        font-size: 10px;
+        padding-right: 80px;
+    }
+    .subscribe-btn{
+        font-size: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .erfd{
+        font-size: 18px;
+        padding-top: 18px;
+    }
+    .pth{
+        font-size: 18px;
+    }
+    nav{
+        padding: 0px;
+    }
+    nav ul li {
+        margin-right: 7px;
+    }
+    .nfoot{
+        padding: 0;
+    }
+    .nfoot ul li {
+        margin-right: 2px;
+    }
+    .ban{
+        padding-right: 5px;
+        padding-left: 0;
+    }
+    .scroll{
+        margin-left: 350px;
+        border-radius: 30px;
     }
 }
